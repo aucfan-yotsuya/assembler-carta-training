@@ -7,7 +7,7 @@
 - Amazon Linux 2の例
 
 ```
-% sudo yum groupinstall -y "Deevelopment Tools"
+% sudo yum groupinstall -y "Development Tools"
 % sudo yum install -y perl-App-cpanminus.noarch postgresql-devel.x86_64 postgresql-server.x86_64
 % sudo cpanm Carton
 % carton
